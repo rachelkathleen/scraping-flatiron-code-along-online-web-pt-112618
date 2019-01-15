@@ -10,4 +10,3 @@ class course
     @@all
   end
 end
-    
